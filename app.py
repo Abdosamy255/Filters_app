@@ -1,4 +1,4 @@
-"""Streamlit image filtering app with organized UI and robust input handling."""
+
 
 import io
 from typing import Dict, Tuple
@@ -301,4 +301,5 @@ def main() -> None:
 
 
 if __name__ == "__main__":
+
     main()
